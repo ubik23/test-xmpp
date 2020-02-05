@@ -1,0 +1,14 @@
+#login {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.25em;
+  background-color: #fff;
+  border-bottom: 1px solid black;
+}
+
+#log {
+  max-width: 100vh;
+  margin: 31px 31px 0 31px;
+}
